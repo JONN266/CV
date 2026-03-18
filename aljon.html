@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Free Web tutorials">
+    <meta name="keywords" content="HTML,CSS,XML,JavaScript">
+    <meta name="author" content="John Doe">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV</title>
+    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+</head>
+<body>
+    <section>
+    <h1>Your Name</h1>
+    <h5>Junior Frontend Developer</h5>
+    </section>
+
+    <section>
+    <!--Address-->
+    <p>123 Your Street<br>
+    Your City, ST 12345<br>
+    (123) 456-789<br>
+    no_reply@example.com<br></p>
+    </section>
+
+    <section>
+    <h5>Skills</h5>
+    <p>HTML,CSS,Javascript,Accessibility,Figma to Design,Responsive Web Design,<br>
+    Technical Writing Skills,Presentation</p>
+    </section>
+
+    <section>
+    <h5>Education</h5>
+    <h3>School Name, Location - Degree<br></h3>
+    <p>Month 20xx to Month 20xx<br></p>
+    <p>List of exciting things you did at university</p>
+    </section>
+
+    <section>
+    <h5>Experience</h5>
+    <h3>Company Name, Location - Job title</h3>
+    <p>Month 20xx to Month 20xx</p>
+    <p>•List of Achievements</p>
+    <p>•List of Achievements</p>
+    <p>•List of Achievements</p>
+    <p>Skills: List of Skills used or gained at this company</p>
+    </section>
+
+    <section>
+    <h5>Across the Internet</h5>
+    <p>Add your linkedIn, Github profile links</p>
+    </section>
+</body>
+</html>
